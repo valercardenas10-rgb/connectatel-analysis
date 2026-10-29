@@ -36,8 +36,8 @@ Con estos resultados se proponen mejoras a la oferta de planes y estrategias de 
 - **El consumo es bajo y homogéneo:** la mediana por usuario es de 5 mensajes, 4 llamadas y 19.78 minutos en 6 meses, muy por debajo de lo que incluyen los planes.
 - **El plan no diferencia el uso:** los clientes Premium (35.12%) consumen casi lo mismo que los Basico (5.52 vs 5.53 mensajes y 4.52 vs 4.45 llamadas en promedio), aunque pagan más del doble.
 - **La edad tampoco explica el consumo:** Jóvenes (19.00%), Adultos (50.45%) y Adultos Mayores (30.55%) tienen promedios casi idénticos.
-- **Segmentos de uso:** Uso medio 73.58%, Bajo uso 19.48% y Alto uso 6.95%. El 66.5% de los usuarios de Alto uso está en el plan Basico, lo que es una oportunidad de upgrade. Además, este grupo tiene la tasa de bajas más alta (14.0%).
-- **Calidad de datos:** 55 edades con `-999`, 565 usuarios sin ciudad (14.13%), 40 fechas de registro en 2026 y eventos extremos repetidos (120 minutos y 1,490 caracteres) que conviene validar.
+- **Segmentos de uso:** Uso medio 73.58%, Bajo uso 19.48% y Alto uso 6.95%. El 66.5% de los usuarios de Alto uso está en el plan Basico, lo que es una oportunidad de upgrade. Su tasa de bajas es algo mayor (14.0% frente a 11.4–11.5%), aunque con 278 usuarios la diferencia no es concluyente.
+- **Calidad de datos:** 55 edades con `-999`, 565 usuarios sin ciudad (14.13%), 40 fechas de registro en 2026, 46 bajas anteriores a la fecha de registro y eventos extremos repetidos (120 minutos y 1,490 caracteres) que conviene validar.
 
 ## ▶️ Cómo ejecutar el notebook
 
